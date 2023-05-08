@@ -1,0 +1,12 @@
+.filled {
+	fill: var(--primary);
+}
+
+.star {
+	margin: 0;
+	margin-right: 5px;
+}
+
+.editable {
+	cursor: pointer;
+}
