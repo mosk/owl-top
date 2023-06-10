@@ -50,7 +50,7 @@
 }
 
 .third-level-wrapper {
-	display: block;
+	display: none;
 	margin-bottom: 12px;
 }
 
@@ -60,8 +60,10 @@
 
 .third-level {
 	display: block;
+	margin: 0;
+	padding: 4px 0;
 	font-size: 14px;
-	line-height: 2;
+	line-height: 1.4;
 	color: var(--grey-dark);
 	font-weight: 500;
 }
